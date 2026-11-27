@@ -1,0 +1,29 @@
+---
+title: "Sofie Faircloth"
+description: |
+  A personal website by a student at Santa Barbara City College.
+site: distill::distill_website
+---
+
+## Welcome
+
+Hi! My name is Sofie Faircloth. I am a student at Santa Barbara City College. I am interested in psychology and criminology.
+
+## A question I care about
+
+Something I care about is why people make the choices they do. I care about this because people are often judged for the choices they make, but nobody seems to ask why they made those choices. This is why I want to go into criminal or forensic psychology.
+
+## Something I have learned with data
+
+Something that using RStudio and data has taught me is how to compare variables to find correlations in data. This is really interesting to me because I am able to take specific variables from a dataset, put them into a plot, and see how they relate to each other.
+
+[See my work on GitHub](https://github.com/SOFIEFAIRCLOTH)
+
+
+
+
+
+
+
+
+
