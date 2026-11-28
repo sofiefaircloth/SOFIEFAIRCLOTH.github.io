@@ -6,15 +6,15 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2026-11-27T20:56:33+00:00"
+      "last_modified": "2026-11-28T04:41:51+00:00"
     },
     {
       "path": "index.html",
       "title": "Sofie Faircloth",
       "description": "A personal website by a student at Santa Barbara City College.\n",
       "author": [],
-      "contents": "\nWelcome\nHi! My name is Sofie Faircloth. I am a student at Santa Barbara City College. I am interested in psychology and criminology.\nA question I care about\nSomething I care about is why people make the choices they do. I care about this because people are often judged for the choices they make, but nobody seems to ask why they made those choices. This is why I want to go into criminal or forensic psychology.\nSomething I have learned with data\nSomething that using RStudio and data has taught me is how to compare variables to find correlations in data. This is really interesting to me because I am able to take specific variables from a dataset, put them into a plot, and see how they relate to each other.\nSee my work on GitHub\n\n\n\n",
-      "last_modified": "2026-11-27T20:56:34+00:00"
+      "contents": "\nWelcome\nHi! My name is Sofie Faircloth. I am a student at Santa Barbara City College. I am interested in psychology and criminology.\nA question I care about\nSomething I care about is why people make the choices they do. I care about this because people are often judged for the choices they make, but nobody seems to ask why they made those choices. This is why I want to go into criminal or forensic psychology.\nSomething I have learned with data\nSomething that using RStudio and data has taught me is how to compare variables to find correlations in data. This is really interesting to me because I am able to take specific variables from a dataset, put them into a plot, and see how they relate to each other.\nSee my work on GitHub\n\n\n\nrmarkdown::render_site()\n\n\n\n",
+      "last_modified": "2026-11-28T04:41:52+00:00"
     }
   ],
   "collections": []

@@ -20,6 +20,29 @@ Something that using RStudio and data has taught me is how to compare variables 
 [See my work on GitHub](https://github.com/SOFIEFAIRCLOTH)
 
 
+```{r, echo=FALSE}
+
+hist(
+  mtcars$mpg,
+  main = "Miles per gallon in the mtcars data",
+  xlab = "Miles per gallon",
+  col = "#7FC8C2",
+  border = "white"
+)
+```
+
+rmarkdown::render_site()
+
+file.create("docs/.nojekyll")
+
+
+
+
+
+
+
+
+
 
 
 
